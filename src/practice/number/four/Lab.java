@@ -2,7 +2,6 @@ package practice.number.four;
 
 import javax.swing.*;
 import java.awt.*;
-import java.awt.event.*;
 
 public class Lab extends JFrame {
     int milanScore = 0;
